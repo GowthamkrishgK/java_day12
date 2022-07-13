@@ -1,0 +1,1 @@
+set classpath=%classpath%;d:\;.;d:\java_training\day12\mysql-connector.jar
